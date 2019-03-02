@@ -1,0 +1,74 @@
+baseURL = "https://davegill.io"
+languageCode = "en-gb"
+
+title = "Dave Gill"
+copyright = "Copyright © {year} David Gill; all rights reserved."
+
+theme = "jormungandr"
+preserveTaxonomyNames = true
+
+disqusShortname = "dave-gill"
+
+[[menu.main]]
+    pre = "↪ "
+    name = "Home"
+    url = "/"
+    weight = "10"
+
+[[menu.main]]
+    pre = "↪ "
+    name = "Blog"
+    url = "/blog/"
+    weight = "20"
+
+[social]
+    twitter="daveagill"
+
+[params]
+    author = "David Gill"
+    description = "A blog about programming, electronics and other techie things."
+    
+    logo = "/logo.jpg"
+    logoAsCircle = true
+
+    highlightjs = true
+
+    [params.taxonomies]
+        showOnBlogSection = true
+        minUsage = 1
+
+    [[params.social]]
+        name = "GitHub"
+        url = "https://github.com/daveagill"
+        icon = "fab fa-github"
+        color = "#000000"
+
+    [[params.social]]
+        name = "Twitter"
+        url = "https://twitter.com/daveagill"
+        icon = "fab fa-twitter"
+        color = "#1da1f2"
+
+    [[params.social]]
+        name = "LinkedIn"
+        url = "https://linkedin.com/daveagill"
+        icon = "fab fa-linkedin"
+        color = "#007bb5"
+
+    [[params.social]]
+        name = "YouTube"
+        url = "https://youtube.com/user/daveagill"
+        icon = "fab fa-youtube"
+        color = "#ff0000"
+
+    [[params.social]]
+        name = "Flickr"
+        url = "https://flickr.com/photos/142957833@N08"
+        icon = "fab fa-flickr"
+        color = "#ff0084"
+
+    [[params.social]]
+        name = "RSS Feed"
+        url = "/index.xml"
+        icon = "fas fa-rss"
+        color = "#ee802f"

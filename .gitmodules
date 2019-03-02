@@ -1,0 +1,3 @@
+[submodule "themes/jormungandr"]
+	path = themes/jormungandr
+	url = https://github.com/daveagill/jormungandr.git
