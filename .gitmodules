@@ -1,3 +1,6 @@
 [submodule "themes/jormungandr"]
 	path = themes/jormungandr
 	url = https://github.com/daveagill/jormungandr.git
+[submodule "public"]
+	path = public
+	url = https://github.com/daveagill/davegill.io.git
