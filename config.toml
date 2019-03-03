@@ -10,13 +10,13 @@ preserveTaxonomyNames = true
 disqusShortname = "dave-gill"
 
 [[menu.main]]
-    pre = "↪ "
+    pre = "↪&#xFE0E; "
     name = "Home"
     url = "/"
     weight = "10"
 
 [[menu.main]]
-    pre = "↪ "
+    pre = "↪&#xFE0E; "
     name = "Blog"
     url = "/blog/"
     weight = "20"
