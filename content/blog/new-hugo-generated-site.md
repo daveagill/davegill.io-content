@@ -4,7 +4,7 @@ date = "Mon, 04 Mar 2019 03:12:31 GMT"
 tags = ["Web Development"]
 +++
 
-**Welcome to the new site!** Here we are with a fresh new look and as you can it's a minimalistic and content-first design which is enhanced by the ever so elegant Merriweather font.
+**Welcome to the new site!** Here we are with a fresh new look and as you can see it's a minimalistic and content-first design which is enhanced by the ever so elegant Merriweather font.
 
 The minimalistic mantra extends beyond just the cosmetics to the inner workings of the site too; being fully offline-generated using a Static-Site-Generator (SSG) known as [Hugo](https://gohugo.io/) and skinned with a custom site theme I have named [Jörmungander](https://github.com/daveagill/jormungandr).
 
