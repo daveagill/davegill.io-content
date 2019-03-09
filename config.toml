@@ -51,7 +51,7 @@ disqusShortname = "dave-gill"
 
     [[params.social]]
         name = "LinkedIn"
-        url = "https://linkedin.com/daveagill"
+        url = "https://uk.linkedin.com/in/daveagill"
         icon = "fab fa-linkedin"
         color = "#007bb5"
 
