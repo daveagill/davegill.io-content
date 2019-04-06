@@ -1,7 +1,7 @@
 +++
 title = "New Hugo Generated Site"
 date = "Mon, 04 Mar 2019 03:12:31 GMT"
-tags = ["Web Development"]
+tags = ["Web Development", "Hugo"]
 +++
 
 **Welcome to the new site!** Here we are with a fresh new look and as you can see it's a minimalistic and content-first design which is enhanced by the ever so elegant Merriweather font.
@@ -28,6 +28,6 @@ Besides just raw performance, using a Static-Site-Generator like Hugo or Jekyll 
 
 My process for migrating content from Wordpress to Hugo was relatively straight-forward but I did have to grind through every blog post to fixup paragraphs and images. That was fine for me because there weren't too many posts and I really wanted to make sure that all my content was perfect anyway.
 
-I'll be covering the migration process in an up-coming post.
+I'll be covering the migration process in [an up-coming post](/blog/migrating-from-wordpress-to-hugo).
 
 Looking ahead, I am hoping that the ease with which I can author content now will inspire me to blog more frequently. Especially as I have a few exciting things in the pipeline that I'll be working on.
