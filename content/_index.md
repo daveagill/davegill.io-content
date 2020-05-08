@@ -5,9 +5,9 @@ showSocialIconsInHeader = false
 showSocialIconsInFooter = false
 +++
 
-**Hi, I'm Dave**. Software developer, amateur photographer and <mark>all-round tech nerd</mark>.
+**I am Dave...**
 
-I am the <mark>Team-Lead Software Developer</mark> at Hyperglance Ltd.
+<mark>CTO at Hyperglance</mark>, software developer, amateur photographer and <mark>all-round tech enthusiast</mark>.
 
 My interests include: Game Development, Computer Graphics, Programming Language Design, Machine Learning, Photography, Electronics & Robotics.
 
