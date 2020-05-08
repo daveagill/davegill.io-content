@@ -9,6 +9,15 @@ preserveTaxonomyNames = true
 
 disqusShortname = "dave-gill"
 
+# enable html tags in md files (requires a flag since hugo 0.60.0)
+[markup.goldmark.renderer]
+    unsafe = true
+
+[markup.highlight]
+    style = "dracula"
+    guessSyntax = true
+    lineNos = true
+
 [[menu.main]]
     pre = "↪&#xFE0E; "
     name = "Home"
@@ -30,8 +39,6 @@ disqusShortname = "dave-gill"
     
     logo = "/logo.jpg"
     logoAsCircle = true
-
-    highlightjs = true
 
     [params.taxonomies]
         showOnBlogSection = true
